@@ -4,9 +4,9 @@ RusynKeyboard is a QWERTYfied Rusyn keyboard layout, designed around a Slovak sp
 It is designed to make sense phonetically to a Slovak/English speaker.
 
 ## Installation
-  Find the latest release
+  Find the [latest release](https://github.com/ihavezerohealth/RusynKeyboard/releases/tag/v1.0.0)
   
-  Download the .zip file
+  Download the .rar file
   
   Decompress the file
   
