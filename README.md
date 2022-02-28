@@ -3,6 +3,8 @@
 RusynKeyboard is a QWERTYfied Rusyn keyboard layout, designed around a Slovak speaker.
 It is designed to make sense phonetically to a Slovak/English speaker.
 
+## Note: Keyboard will be recognised as Ukrainian
+
 ## Installation
   Find the [latest release](https://github.com/ihavezerohealth/RusynKeyboard/releases/tag/v1.0.0)
   
