@@ -5,8 +5,11 @@ It is designed to make sense phonetically to a Slovak/English speaker.
 
 ## Installation
   Find the latest release
+  
   Download the .zip file
+  
   Decompress the file
+  
   Run setup.exe
 
 ## Images
