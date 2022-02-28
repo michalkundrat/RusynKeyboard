@@ -11,9 +11,9 @@ It is designed to make sense phonetically to a Slovak/English speaker.
 
 ## Images
 ### Main
-https://github.com/ihavezerohealth/RusynKeyboard/blob/main/Images/Rusnak.jpg
+![Top Layer](https://github.com/ihavezerohealth/RusynKeyboard/blob/main/Images/Rusnak.jpg)
 ### AltGr layer
-https://github.com/ihavezerohealth/RusynKeyboard/blob/main/Images/Rusnak%20(AltGr).png
+![AltGr Layer](https://github.com/ihavezerohealth/RusynKeyboard/blob/main/Images/Rusnak%20(AltGr).png
   
 ## Understanding the layout
 The layout was created around making the layout as easy as possible to memorise.
